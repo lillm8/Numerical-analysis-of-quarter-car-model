@@ -3,7 +3,7 @@
 This computer laboration is one of three which are part of the Numerical Methods (SF1544) course taken on the Engineering Physics program at KTH university.
 The laboration is examined with an on-site examination, and an assessment of our results and code-documentation (Matlab code) in the form of a submission. 
 This ReadMe-file is a shorter version of the [actual instructions](https://github.com/user-attachments/files/18180950/QuarterCar2024.pdf) in Swedish of the laboration that we have
-completed. The answers are briefly dockumented in the code along along with associated graphs explained in english (the lables are the only thing written in Swedish).
+completed. The answers are briefly documented in the code along along with associated graphs explained in english (the lables are the only thing written in Swedish).
 All of these answers and plots with desired output are given by running the files mentioned throughout this ReadMe-file. 
 
 Special thanks to my laborationpartner [Mohamad Kanjo](https://github.com/MohiMad).
